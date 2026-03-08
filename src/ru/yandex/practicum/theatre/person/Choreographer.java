@@ -1,4 +1,4 @@
-package ru.yandex.practicum.Theatre.Person;
+package ru.yandex.practicum.theatre.person;
 
 public class Choreographer extends Person {
     public Choreographer(String name, String surname, Gender gender) {

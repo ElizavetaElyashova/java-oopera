@@ -1,4 +1,4 @@
-package ru.yandex.practicum.Theatre.Person;
+package ru.yandex.practicum.theatre.person;
 
 import java.util.Objects;
 
@@ -20,7 +20,7 @@ public class Actor extends Person {
         Actor actor = (Actor) o;
         return Objects.equals(super.getName(), actor.getName()) &&
                 Objects.equals(super.getSurname(), actor.getSurname()) &&
-                height == actor.height;
+                Double.compare(height, actor.height) == 0;
     }
 
     @Override

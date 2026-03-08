@@ -1,8 +1,8 @@
-package ru.yandex.practicum.Theatre.Show;
+package ru.yandex.practicum.theatre.show;
 
-import ru.yandex.practicum.Theatre.Person.Choreographer;
-import ru.yandex.practicum.Theatre.Person.Director;
-import ru.yandex.practicum.Theatre.Person.MusicAuthor;
+import ru.yandex.practicum.theatre.person.Choreographer;
+import ru.yandex.practicum.theatre.person.Director;
+import ru.yandex.practicum.theatre.person.MusicAuthor;
 
 import java.util.Objects;
 

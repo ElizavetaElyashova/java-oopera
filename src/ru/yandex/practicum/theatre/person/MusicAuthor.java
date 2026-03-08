@@ -1,4 +1,4 @@
-package ru.yandex.practicum.Theatre.Person;
+package ru.yandex.practicum.theatre.person;
 
 public class MusicAuthor extends Person {
     public MusicAuthor(String name, String surname, Gender gender) {

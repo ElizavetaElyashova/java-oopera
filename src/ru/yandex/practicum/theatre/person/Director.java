@@ -1,4 +1,4 @@
-package ru.yandex.practicum.Theatre.Person;
+package ru.yandex.practicum.theatre.person;
 
 import java.util.Objects;
 
@@ -21,13 +21,12 @@ public class Director extends Person {
     public boolean equals(Object o) {
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
-        Director director = (Director) o;
-        return numberOfShows == director.numberOfShows;
+        return true;
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(super.hashCode(), numberOfShows);
+        return Objects.hash(super.hashCode());
     }
 
     @Override

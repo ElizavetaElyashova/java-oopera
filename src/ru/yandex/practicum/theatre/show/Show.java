@@ -1,7 +1,7 @@
-package ru.yandex.practicum.Theatre.Show;
+package ru.yandex.practicum.theatre.show;
 
-import ru.yandex.practicum.Theatre.Person.Actor;
-import ru.yandex.practicum.Theatre.Person.Director;
+import ru.yandex.practicum.theatre.person.Actor;
+import ru.yandex.practicum.theatre.person.Director;
 
 import java.util.ArrayList;
 import java.util.Objects;

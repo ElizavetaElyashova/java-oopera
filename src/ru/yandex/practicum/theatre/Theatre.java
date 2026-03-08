@@ -1,9 +1,9 @@
-package ru.yandex.practicum.Theatre;
+package ru.yandex.practicum.theatre;
 
-import ru.yandex.practicum.Theatre.Person.*;
-import ru.yandex.practicum.Theatre.Show.Ballet;
-import ru.yandex.practicum.Theatre.Show.Opera;
-import ru.yandex.practicum.Theatre.Show.Show;
+import ru.yandex.practicum.theatre.person.*;
+import ru.yandex.practicum.theatre.show.Ballet;
+import ru.yandex.practicum.theatre.show.Opera;
+import ru.yandex.practicum.theatre.show.Show;
 
 public class Theatre {
     public static void main(String[] args) {

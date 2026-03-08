@@ -1,4 +1,4 @@
-package ru.yandex.practicum.Theatre.Person;
+package ru.yandex.practicum.theatre.person;
 
 import java.util.Objects;
 
